@@ -43,7 +43,8 @@ sudo pm2 start app.js
 
 The screenshot below shows the application running in a browser on the EC2 public IP address using port 3000.
 
-![Output Screenshot](images/output-browser.png)
+![Output Screenshot](images/output-browser.png)<img width="1917" height="1041" alt="output-browser" src="https://github.com/user-attachments/assets/c749c6b2-ad5c-4dae-b667-aae1f4477e6e" />
+
 
 ## 6. Deployment Steps
 
