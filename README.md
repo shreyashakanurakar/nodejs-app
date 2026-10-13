@@ -44,7 +44,7 @@ flowchart TD
 The following screenshot shows the terminal command used to start the Node.js application with PM2 and confirms that the process status is **online**.
 
 ![Input screenshot: PM2 starts the Node.js app](images/input-pm2-terminal.png)
-<img width="841" height="795" alt="Screenshot 2026-10-08 172444" src="https://github.com/user-attachments/assets/e5e8a397-e261-48e1-b46d-32632c50c9b0" />
+<img width="1007" height="816" alt="Screenshot 2026-10-08 180644" src="https://github.com/user-attachments/assets/cb14ea2c-d7a1-45d0-b5f7-140e35d1792c" />
 
 Command shown:
 
@@ -55,6 +55,8 @@ sudo pm2 start app.js
 ## 6. Output Screenshot
 
 The following screenshot shows the application opened in a browser using the EC2 public IP address and port `3000`. The expected message is displayed on the page.
+<img width="1905" height="846" alt="Screenshot 2026-10-08 180541" src="https://github.com/user-attachments/assets/ab1fad59-e96e-4d17-9f4d-9bea6b2bd6b6" /><img width="1490" height="983" alt="Screenshot 2026-10-08 181138" src="https://github.com/user-attachments/assets/c610acaf-b084-47db-9236-71d278787491" />
+
 
 ![Output screenshot: Node.js application in browser](images/output-browser.png)
 
