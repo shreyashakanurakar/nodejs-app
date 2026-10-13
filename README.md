@@ -31,7 +31,8 @@ flowchart TD
 
 The screenshot below shows the terminal command used to start the Node.js application with PM2 and the process status shown as online.
 
-![Input / Execution Screenshot](images/input-pm2-terminal.png)
+![Input / Execution Screenshot](images/input-pm2-terminal.png)<img width="1917" height="975" alt="input-pm2-terminal" src="https://github.com/user-attachments/assets/edc6e975-d853-4172-a29d-ecfb1d63fc78" />
+
 
 Command used:
 
